@@ -15,6 +15,12 @@ Education
 * M.S. in Computer Science, The Ohio State University, 2019
 * B.Tech in Computer Engineering, Thapar University, 2015 
 
+Publications
+======
+* Akshay Mehra, Jihun Hamm and Mikhail Belkin. “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”. arXiv (2018).
+* Jihun Hamm and Akshay Mehra. “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/pdf/1711.04368.pdf)”. arXiv (2017).
+
+
 Work experience
 ======
 * Summer Intern at Avata Intelligence: Summer 2019
@@ -46,11 +52,7 @@ Skills
 * Competitive Programming Handles:
   * Codechef (rihaan1991), Hackerrank (akshaymehra), Google Code Jam (akshay1622).
 
-Publications
-======
-* Akshay Mehra, Jihun Hamm and Mikhail Belkin. “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”. arXiv (2018).
-* Jihun Hamm and Akshay Mehra. “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/pdf/1711.04368.pdf)”. arXiv (2017).
-
+<!--
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -70,4 +72,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams 
+
+-->
