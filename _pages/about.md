@@ -18,8 +18,8 @@ I am interested in large scale bilevel optimization and adversarial machine lear
 
 Publications
 ======
+* Akshay Mehra, Jihun Hamm and Mikhail Belkin. “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”. arXiv (2018).
+* Jihun Hamm and Akshay Mehra. “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/pdf/1711.04368.pdf)”. arXiv (2017).
 
-Past Experience
-======
 
 
