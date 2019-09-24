@@ -13,7 +13,7 @@ name                     : &name "Akshay Mehra"
 description              : &description "PhD student at Tulane University. Working on adversarial robustness and bilevel optimization problems in machine learning."
 url                      : https://akshaymehra24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "akshaymehra24/akshaymehra24.github.io"
+repository               : "https://github.com/akshaymehra24/akshaymehra24.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
