@@ -19,7 +19,7 @@ Education
 Publications
 ======
 <!--  ![New](output.gif) -->
-* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)” arXiv (2019). 
+* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. arXiv (2019). 
   <br> Akshay Mehra, Jihun Hamm.  [Code](https://github.com/jihunhamm/bilevel-penalty)
 * “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”. arXiv (2018).
   <br> Akshay Mehra, Jihun Hamm and Mikhail Belkin. 
