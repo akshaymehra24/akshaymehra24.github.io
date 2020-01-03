@@ -14,6 +14,8 @@ I am a second year PhD student at Tulane University, working with <a href ="http
 
 I completed my Masters in Computer Science from The Ohio State University under the guidance of <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a> and <a href="http://web.cse.ohio-state.edu/~belkin.8/">Prof. Mikhail Belkin</a> where I worked on combining active learning and semi-supervised learning to speed up interactive image retrieval.
 
+</p>
+
 Research Interest
 ======
 I am interested in large scale bilevel optimization and adversarial machine learning problems. I'm also very interested in understanding the problem of generalization in modern machine learning.
@@ -28,6 +30,5 @@ Publications
 * “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/pdf/1711.04368.pdf)”.
   <br> Jihun Hamm and Akshay Mehra. 
 
-</p>
 
 
