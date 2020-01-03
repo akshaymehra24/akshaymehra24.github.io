@@ -18,7 +18,9 @@ I completed my Masters in Computer Science from The Ohio State University under 
 
 Research Interest
 ======
+<p style="text-align: justify;">
 I am interested in large scale bilevel optimization and adversarial machine learning problems. I'm also very interested in understanding the problem of generalization in modern machine learning.
+</p>
 
 Publications
 ======
