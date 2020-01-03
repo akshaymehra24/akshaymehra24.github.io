@@ -39,7 +39,7 @@ Work experience
   * Supervisors: Dr. Mohamed Abdel-Hady & Dr. Debraj GuhaThakurta
   * Entity Extraction from Bio-Medical Data, to identify Drugs, Diseases etc. from medical records. Published [here](https://bit.ly/2syDRjN).
 	* <p style="text-align: justify;">Trained Word2Vec model using 15 million Medline Abstracts to extract word embeddings for medical entities using Spark in < 90 mins. </p>
-	* <p style="text-align: justify;">Build a LSTM based recurrent neural network to train the entity extractor using Keras with Tensorflow backend. RNN initialized with Medline embeddings outperformed the RNN initialized with generic word embeddings trained on Google News. Our model detected 7012 entities correctly (out of 9475) with a F1 score of 0.73 compared to 5274 entities with F1 score of 0.61 obtained with RNN initialized with generic word embeddings. </p> <a href="http://bit.ly/2xJUrKP">Code</a>
+	* <p style="text-align: justify;">Build a LSTM based recurrent neural network to train the entity extractor using Keras with Tensorflow backend. RNN initialized with Medline embeddings outperformed the RNN initialized with generic word embeddings trained on Google News. Our model detected 7012 entities correctly (out of 9475) with a F1 score of 0.73 compared to 5274 entities with F1 score of 0.61 obtained with RNN initialized with generic word embeddings.  <a href="http://bit.ly/2xJUrKP">Code</a></p>
 	
 * Software Engineer at Microsoft: June 2015 - Aug 2016
   * Secure License Keys (SLK), a project involving generation and distribution of product keys for almost all Microsoft products.
