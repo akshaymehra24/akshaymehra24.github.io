@@ -56,7 +56,7 @@ Skills
 	* C C++, Python, Tensorflow, Keras, MATLAB, Shell Scripting, Azure, SQL Server, Oracle, MySQL.
 
 * Competitive Programming Handles:
-  * Codechef (rihaan1991), Hackerrank (akshaymehra), Google Code Jam (akshay1622).
+  * Codechef [https://www.codechef.com/users/rihaan1991](rihaan1991), Hackerrank [https://www.hackerrank.com/akshaymehra](akshaymehra), Google Code Jam (akshay1622).
 
 <!--
 
