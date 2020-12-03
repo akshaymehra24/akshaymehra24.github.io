@@ -31,6 +31,14 @@ Publications
 
 Work experience
 ======
+* Research Intern at Lawrence Livermore National Laboratory: Summer 2020
+  * Supervisors: Dr. Dr. Bhavya Kailkhura
+  * Data poisoning attacks against certified defenses.  
+	* <p style="text-align: justify;">We studied the problem of using data poisoning attacks to affect the robustness guarantees of classifiers trained using certified defense methods.</p>
+	* <p style="text-align: justify;">We proposed a bilevel-optimization based attack which can generate poison data against several robust training and certification methods. We specifically used the attack to highlight the vulnerability of randomized smoothing based certified defenses to data poisoning.</p>
+	* <p style="text-align: justify;">We demonstrated the effectiveness of our attack in reducing the certifiable robustness obtained using randomized smoothing on models trained with state-of-the-art certified defenses such as Gaussian data augmentation, SmoothAdv and MACER. For these training methods our attack reduced the average certified radius of the target class by more than 30\%.</p>
+
+
 * Summer Intern at Avata Intelligence: Summer 2019
   * Supervisors: Dr. Manish Jain & Dr. Matthew Brown
   * Train and Test time attacks on Neural Networks:
