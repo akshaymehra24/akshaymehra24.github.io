@@ -32,7 +32,7 @@ Publications
 Work experience
 ======
 * Research Intern at Lawrence Livermore National Laboratory: Summer 2020
-  * Supervisors: Dr. Dr. Bhavya Kailkhura
+  * Supervisors: Dr. Bhavya Kailkhura
   * Data poisoning attacks against certified defenses.  
 	* <p style="text-align: justify;">We studied the problem of using data poisoning attacks to affect the robustness guarantees of classifiers trained using certified defense methods.</p>
 	* <p style="text-align: justify;">We proposed a bilevel-optimization based attack which can generate poison data against several robust training and certification methods. We specifically used the attack to highlight the vulnerability of randomized smoothing based certified defenses to data poisoning.</p>
