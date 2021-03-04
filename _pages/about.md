@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 <p style="text-align: justify;">
   
 I am a second year PhD student at Tulane University, working with <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. My current research is related to developing a method for solving large-scale bilevel optimization problems that appear in machine learning. Some of the important applications include hyperparameter optimization, few-shot learning, importance learning and training-data poisoning. I also work on understanding the limitation of machine learning models and am developing a method to make models robust to train and test-time attacks.
@@ -26,13 +27,10 @@ Publications
 ======
 
 * “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://arxiv.org/pdf/2012.01274.pdf)”. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses)
-  <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm.  `#00ff00` CVPR 2021 .
+  <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm.  <b>CVPR 2021</b>
 * “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. [Code](https://github.com/jihunhamm/bilevel-penalty)
   <br> Akshay Mehra, Jihun Hamm.    
 * “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”.
   <br> Akshay Mehra, Jihun Hamm and Mikhail Belkin. 
 * “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/pdf/1711.04368.pdf)”.
   <br> Jihun Hamm and Akshay Mehra. 
-
-
-
