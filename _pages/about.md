@@ -26,7 +26,7 @@ Publications
 ======
 
 * “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://arxiv.org/pdf/2012.01274.pdf)”. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses)
-  <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm.  <span style="color:green">CVPR 2021</span>.
+  <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm.  `#00ff00` CVPR 2021 .
 * “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. [Code](https://github.com/jihunhamm/bilevel-penalty)
   <br> Akshay Mehra, Jihun Hamm.    
 * “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”.
