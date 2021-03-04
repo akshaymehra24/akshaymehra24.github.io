@@ -19,7 +19,7 @@ Education
 Publications
 ======
 <!--  ![New](output.gif) -->
-* “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://arxiv.org/pdf/2012.01274.pdf)”. arXiv (2020). 
+* “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://arxiv.org/pdf/2012.01274.pdf)”. <b>CVPR 2021</b>. 
   <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses)
 * “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. arXiv (2019). 
   <br> Akshay Mehra, Jihun Hamm.  [Code](https://github.com/jihunhamm/bilevel-penalty)
