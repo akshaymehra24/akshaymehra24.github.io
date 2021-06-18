@@ -26,7 +26,7 @@ I am interested in large scale bilevel optimization and adversarial machine lear
 Publications
 ======
 
-* “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://arxiv.org/pdf/2012.01274.pdf)”. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses), [Poster](http://akshaymehra24.github.io/files/cvpr21_poster.pdf)
+* “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://openaccess.thecvf.com/content/CVPR2021/html/Mehra_How_Robust_Are_Randomized_Smoothing_Based_Defenses_to_Data_Poisoning_CVPR_2021_paper.html)”. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses), [Poster](http://akshaymehra24.github.io/files/cvpr21_poster.pdf)
   <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm.  CVPR 2021
 * “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. [Code](https://github.com/jihunhamm/bilevel-penalty)
   <br> Akshay Mehra, Jihun Hamm.    
