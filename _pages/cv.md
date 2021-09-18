@@ -20,14 +20,14 @@ Publications
 ======
 <!--  ![New](output.gif) -->
 * “[Understanding the Limits of Unsupervised Domain Adaptation via Data Poisoning](https://arxiv.org/pdf/2107.03919.pdf)”. [Code](https://github.com/akshaymehra24/LimitsOfUDA)
-  <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm.  
-* “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://arxiv.org/pdf/2012.01274.pdf)”. CVPR 2021. 
+  <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. <i>arXiv (2021)</i>
+* “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://arxiv.org/pdf/2012.01274.pdf)”. <i>CVPR 2021</i>. 
   <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses)
-* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. arXiv (2019). 
+* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. <i>ACML 2021</i>. 
   <br> Akshay Mehra, Jihun Hamm.  [Code](https://github.com/jihunhamm/bilevel-penalty)
-* “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”. arXiv (2018).
+* “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”. <i>arXiv (2018)</i>.
   <br> Akshay Mehra, Jihun Hamm and Mikhail Belkin. 
-* “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/pdf/1711.04368.pdf)”. arXiv (2017).
+* “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/pdf/1711.04368.pdf)”. <i>arXiv (2017)</i>.
   <br> Jihun Hamm and Akshay Mehra.
 
 
