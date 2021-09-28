@@ -27,7 +27,7 @@ Publications
 ======
 
 * “[Understanding the Limits of Unsupervised Domain Adaptation via Data Poisoning](https://arxiv.org/pdf/2107.03919.pdf)”. [Code](https://github.com/akshaymehra24/LimitsOfUDA)
-  <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm.  
+  <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. <i>Neurips 2021</i>
 * “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://openaccess.thecvf.com/content/CVPR2021/html/Mehra_How_Robust_Are_Randomized_Smoothing_Based_Defenses_to_Data_Poisoning_CVPR_2021_paper.html)”. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses), [Poster](http://akshaymehra24.github.io/files/cvpr21_poster.pdf)
   <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. <i>CVPR 2021</i>
 * “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. [Code](https://github.com/jihunhamm/bilevel-penalty)
