@@ -32,7 +32,7 @@ Publications
 * “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://openaccess.thecvf.com/content/CVPR2021/html/Mehra_How_Robust_Are_Randomized_Smoothing_Based_Defenses_to_Data_Poisoning_CVPR_2021_paper.html)”. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses), [Poster](http://akshaymehra24.github.io/files/cvpr21_poster.pdf)
   <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
   <br> <i>Computer Vision and Pattern Recognition (CVPR) 2021. </i>
-* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. [Code](https://github.com/jihunhamm/bilevel-penalty)
+* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. [Code](https://github.com/jihunhamm/bilevel-penalty), [Poster](http://akshaymehra24.github.io/files/acml21_poster.png)
   <br> Akshay Mehra, Jihun Hamm. 
   <br> <i>Asian Conference on Machine Learning (ACML) 2021.</i>
 * “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”.
