@@ -26,7 +26,7 @@ I am interested in large scale bilevel optimization and adversarial machine lear
 Publications
 ======
 
-* “[Understanding the Limits of Unsupervised Domain Adaptation via Data Poisoning](https://papers.nips.cc/paper/2021/file/90cc440b1b8caa520c562ac4e4bbcb51-Paper.pdf)”. [Code](https://github.com/akshaymehra24/LimitsOfUDA), [Poster](http://akshaymehra24.github.io/files/neurips21_poster.png)
+* “[Understanding the Limits of Unsupervised Domain Adaptation via Data Poisoning](https://papers.nips.cc/paper/2021/file/90cc440b1b8caa520c562ac4e4bbcb51-Paper.pdf)”. [Code](https://github.com/akshaymehra24/LimitsOfUDA), [Poster](http://akshaymehra24.github.io/files/neurips21_poster.pdf)
   <br> Akshay Mehra, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
   <br> <i>Neural Information Processing Systems (NeurIPS) 2021.</i>
 * “[How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://openaccess.thecvf.com/content/CVPR2021/html/Mehra_How_Robust_Are_Randomized_Smoothing_Based_Defenses_to_Data_Poisoning_CVPR_2021_paper.html)”. [Code](https://github.com/akshaymehra24/poisoning_certified_defenses), [Poster](http://akshaymehra24.github.io/files/cvpr21_poster.pdf)
