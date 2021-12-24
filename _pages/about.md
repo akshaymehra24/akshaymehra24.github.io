@@ -20,7 +20,7 @@ Previously, I have completed my Masters in Computer Science from The Ohio State 
 Research Interest
 ======
 <p style="text-align: justify;">
-To deepen the understanding of robustness of machine learning models to various types of distribution shifts such as shifts induced by corrupted data, adversarial shifts induced by adversarial attacks and naturally occuring shifts.
+To deepen the understanding of robustness of machine learning models to various types of distribution shifts such as shifts induced by corrupted data, adversarial shifts induced by adversarial attacks and naturally occurring shifts.
 </p>
 
 Publications
