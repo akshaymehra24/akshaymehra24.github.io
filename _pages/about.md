@@ -25,8 +25,10 @@ To deepen the understanding of robustness of machine learning models to differen
 
 Publications
 ======
-
-* “[Certified Adversarial Defenses Meet Out-of-Distribution Corruptions: Benchmarking Robustness and Simple Baselines](https://arxiv.org/pdf/2112.00659.pdf)”. 
+* “[On Certifying and Improving Generalization to Unseen Domains](https://arxiv.org/abs/2206.12364)”. 
+  <br> [Code](https://github.com/akshaymehra24/CertifiableDG)
+  <br> <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
+* “[Certified Adversarial Defenses Meet Out-of-Distribution Corruptions: Benchmarking Robustness and Simple Baselines](https://arxiv.org/abs/2112.00659)”. 
   <br> Jiachen Sun, <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen, Dan Hendrycks, Jihun Hamm and Z. Morley Mao.
 * “[Understanding the Limits of Unsupervised Domain Adaptation via Data Poisoning](https://papers.nips.cc/paper/2021/file/90cc440b1b8caa520c562ac4e4bbcb51-Paper.pdf)”. 
   <br> [Code](https://github.com/akshaymehra24/LimitsOfUDA), [Poster](http://akshaymehra24.github.io/files/Neurips_2021_poster.pdf)
@@ -36,11 +38,11 @@ Publications
   <br> [Code](https://github.com/akshaymehra24/poisoning_certified_defenses), [Poster](http://akshaymehra24.github.io/files/cvpr21_poster.pdf)
   <br> <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
   <br> <i>Computer Vision and Pattern Recognition (CVPR) 2021. </i>
-* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/pdf/1911.03432.pdf)”. 
+* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/abs/1911.03432)”. 
   <br> [Code](https://github.com/jihunhamm/bilevel-penalty), [Poster](http://akshaymehra24.github.io/files/acml21_poster.pdf)
   <br> <b>Akshay Mehra</b>, Jihun Hamm. 
   <br> <i>Asian Conference on Machine Learning (ACML) 2021.</i>
-* “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/pdf/1802.04204.pdf)”.
+* “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/abs/1802.04204)”.
   <br> <b>Akshay Mehra</b>, Jihun Hamm and Mikhail Belkin. 
-* “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/pdf/1711.04368.pdf)”.
+* “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/abs/1711.04368)”.
   <br> Jihun Hamm and <b>Akshay Mehra</b>. 
