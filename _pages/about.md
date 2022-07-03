@@ -30,6 +30,7 @@ Publications
   <br> <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
 * “[Certified Adversarial Defenses Meet Out-of-Distribution Corruptions: Benchmarking Robustness and Simple Baselines](https://arxiv.org/abs/2112.00659)”. 
   <br> Jiachen Sun, <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen, Dan Hendrycks, Jihun Hamm and Z. Morley Mao.
+  <br><i>European Conference on Computer Vision (ECCV) 2022. </i>
 * “[Understanding the Limits of Unsupervised Domain Adaptation via Data Poisoning](https://papers.nips.cc/paper/2021/file/90cc440b1b8caa520c562ac4e4bbcb51-Paper.pdf)”. 
   <br> [Code](https://github.com/akshaymehra24/LimitsOfUDA), [Poster](http://akshaymehra24.github.io/files/Neurips_2021_poster.pdf)
   <br> <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
