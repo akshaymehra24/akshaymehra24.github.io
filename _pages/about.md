@@ -25,10 +25,6 @@ To deepen the understanding of robustness of machine learning models to differen
 
 Publications
 ======
-* “[Do Domain Generalization Methods Generalize Well?](https://openreview.net/pdf?id=SRWIQ0Yl53m)”. 
-  <br> [Code](https://github.com/akshaymehra24/LimitsOfDG), [Poster](http://akshaymehra24.github.io/files/ml_safety_poster.pdf)
-  <br> <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
-  <br><i>Workshop on Machine Learning Safety at Neural Information Processing Systems (NeurIPS) 2022.</i>
 * “[A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640645.pdf)”. 
   <br> Jiachen Sun, <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen, Dan Hendrycks, Jihun Hamm and Z. Morley Mao.
   <br><i>European Conference on Computer Vision (ECCV) 2022. </i>
@@ -44,7 +40,14 @@ Publications
   <br> [Code](https://github.com/jihunhamm/bilevel-penalty), [Poster](http://akshaymehra24.github.io/files/acml21_poster.pdf)
   <br> <b>Akshay Mehra</b>, Jihun Hamm. 
   <br> <i>Asian Conference on Machine Learning (ACML) 2021.</i>
-* “[Fast Interactive Image Retrieval using large-scale unlabeled data](https://arxiv.org/abs/1802.04204)”.
-  <br> <b>Akshay Mehra</b>, Jihun Hamm and Mikhail Belkin. 
+
+Preprints
+======
+* “[Understanding the Robustness of Multi-Exit Models under Common Corruptions](https://arxiv.org/abs/2212.01562)”. 
+  <br> <b>Akshay Mehra</b>, Skyler Seto, Navdeep Jaitly and Barry-John Theobald
+* “[Do Domain Generalization Methods Generalize Well?](https://openreview.net/pdf?id=SRWIQ0Yl53m)”. 
+  <br> [Code](https://github.com/akshaymehra24/LimitsOfDG), [Poster](http://akshaymehra24.github.io/files/ml_safety_poster.pdf)
+  <br> <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
+  <br><i>Workshop on Machine Learning Safety at Neural Information Processing Systems (NeurIPS) 2022.</i>
 * “[Machine vs Machine: Minimax-Optimal Defense Against Adversarial Examples](https://arxiv.org/abs/1711.04368)”.
   <br> Jihun Hamm and <b>Akshay Mehra</b>. 
