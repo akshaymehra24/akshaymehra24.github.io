@@ -11,7 +11,7 @@ redirect_from:
 
 <p style="text-align: justify;">
 <I><font color="ff0000"> Currently, looking for full-time research scientist or postdocs positions! </font></I>
-  
+<br><br>
 I am a fifth-year Ph.D. student at Tulane University, working with <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. My current research is related to understanding the robustness of machine learning under distribution shifts. I also work on developing methods for solving large-scale bilevel optimization problems that appear in popular machine learning such as hyperparameter optimization, few-shot learning, importance learning, and training-data poisoning.
 <br><br>
 Previously, I completed my Masters in Computer Science from The Ohio State University under the guidance of <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a> and <a href="http://misha.belkin-wang.org/">Prof. Mikhail Belkin</a> where I worked on active learning and semi-supervised learning problems.
