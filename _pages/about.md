@@ -10,21 +10,26 @@ redirect_from:
 
 
 <p style="text-align: justify;">
+<I> <U> <font color="ff0000"> Currently, looking for full-time research scientist or postdocs positions! </font><U></I>
   
-I am a fourth year PhD student at Tulane University, working with <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. My current research is related to understanding the robustness of machine learning under distribution shifts. I also work on developing methods for solving large-scale bilevel optimization problems that appear in popular machine learning such as hyperparameter optimization, few-shot learning, importance learning and training-data poisoning.
+I am a fifth-year Ph.D. student at Tulane University, working with <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. My current research is related to understanding the robustness of machine learning under distribution shifts. I also work on developing methods for solving large-scale bilevel optimization problems that appear in popular machine learning such as hyperparameter optimization, few-shot learning, importance learning, and training-data poisoning.
 <br><br>
-Previously, I have completed my Masters in Computer Science from The Ohio State University under the guidance of <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a> and <a href="http://misha.belkin-wang.org/">Prof. Mikhail Belkin</a> where I worked on active learning and semi-supervised learning problems.
+Previously, I completed my Masters in Computer Science from The Ohio State University under the guidance of <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a> and <a href="http://misha.belkin-wang.org/">Prof. Mikhail Belkin</a> where I worked on active learning and semi-supervised learning problems.
 
 </p>
 
 Research Interest
 ======
 <p style="text-align: justify;">
-To deepen the understanding of robustness of machine learning models to different types of distribution shifts such as shifts induced by corrupted data, shifts induced by adversarial attacks, etc..
+To deepen the understanding of the robustness of machine learning models to different types of distribution shifts such as shifts induced by corrupted data, shifts induced by adversarial attacks, etc..
 </p>
 
 Publications
 ======
+* “[On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization](https://arxiv.org/abs/2307.08551)”.
+  <br> [Code](https://github.com/akshaymehra24/RiskAverseDG) 
+  <br> <b>Akshay Mehra</b>, Yunbei Zhang, Bhavya Kailkhura, and Jihun Hamm.
+  <br><i>Winter Conference on Applications of Computer Vision (WACV) 2024. </i>
 * “[A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640645.pdf)”. 
   <br> Jiachen Sun, <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen, Dan Hendrycks, Jihun Hamm and Z. Morley Mao.
   <br><i>European Conference on Computer Vision (ECCV) 2022. </i>
@@ -43,6 +48,9 @@ Publications
 
 Preprints
 ======
+* “[Analysis of Task Transferability in Large Pre-trained Classifiers](https://arxiv.org/abs/2307.00823)”.
+  <br> [Code](https://github.com/akshaymehra24/TaskTransferAnalysis)
+  <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
 * “[Understanding the Robustness of Multi-Exit Models under Common Corruptions](https://arxiv.org/abs/2212.01562)”. 
   <br> <b>Akshay Mehra</b>, Skyler Seto, Navdeep Jaitly and Barry-John Theobald
 * “[Do Domain Generalization Methods Generalize Well?](https://openreview.net/pdf?id=SRWIQ0Yl53m)”. 
