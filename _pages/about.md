@@ -10,7 +10,6 @@ redirect_from:
 
 
 <p style="text-align: justify;">
-<I><font color="ff0000"> Looking for full-time positions as a research scientist or postdoc! </font></I>
 <br><br>
 I am a fifth-year Ph.D. student at Tulane University, working with <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. My current research is related to understanding the robustness of machine learning under distribution shifts. I also work on developing methods for solving large-scale bilevel optimization problems that appear in popular machine learning such as hyperparameter optimization, few-shot learning, importance learning, and training-data poisoning.
 <br><br>
@@ -21,7 +20,7 @@ Previously, I completed my Masters in Computer Science from The Ohio State Unive
 Research Interest
 ======
 <p style="text-align: justify;">
-To deepen the understanding of the robustness of machine learning models to different types of distribution shifts such as shifts induced by corrupted data, shifts induced by adversarial attacks, etc..
+To deepen the understanding of machine learning models' robustness to different distribution shifts such as shifts induced by corrupted data, shifts induced by adversarial attacks, etc..
 </p>
 
 Publications
