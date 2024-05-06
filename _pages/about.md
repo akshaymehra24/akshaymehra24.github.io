@@ -11,7 +11,7 @@ redirect_from:
 
 <p style="text-align: justify;">
 <br><br>
-I completed my Ph.D. in Computer Science from Tulane University in 2024, working with <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. 
+I completed my Ph.D. in Computer Science from Tulane University in 2024, under the guidance of <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. 
 The primary thrusts of my research are summarized as follows. The first aspect of my research focuses on rigorously analyzing how different performance metrics (such as accuracy, adversarial robustness, and transferability to downstream tasks) are affected when training and test distributions differ. The second aspect concentrates on developing algorithms inspired by these theoretical insights to improve the performance of the ML models under distribution shifts. Overall, my research analyzes the success of learning models in in-domain in-task and cross-domain cross-task settings and analyzes the impact of distribution shifts in these settings. 
 </p>
 
