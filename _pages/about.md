@@ -25,6 +25,10 @@ To deepen the understanding of machine learning models' robustness to different 
 
 Publications
 ======
+* “[Test-time Assessment of a Model's Performance on Unseen Domains via Optimal Transport](https://arxiv.org/pdf/2405.01451)”.
+  <br> [Code](https://github.com/akshaymehra24/TETOT)
+  <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
+  <br><i>Computer Vision and Pattern Recognition (CVPR) Workshop on Fair, Data-efficient, and Trusted Computer Vision 2024. </i>
 * “[On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization](https://arxiv.org/abs/2307.08551)”.
   <br> [Code](https://github.com/akshaymehra24/RiskAverseDG) 
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, Bhavya Kailkhura, and Jihun Hamm.
