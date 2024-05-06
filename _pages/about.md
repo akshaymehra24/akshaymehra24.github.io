@@ -11,10 +11,8 @@ redirect_from:
 
 <p style="text-align: justify;">
 <br><br>
-I am a fifth-year Ph.D. student at Tulane University, working with <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. My current research is related to understanding the robustness of machine learning under distribution shifts. I also work on developing methods for solving large-scale bilevel optimization problems that appear in popular machine learning such as hyperparameter optimization, few-shot learning, importance learning, and training-data poisoning.
-<br><br>
-Previously, I completed my Masters in Computer Science from The Ohio State University under the guidance of <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a> and <a href="http://misha.belkin-wang.org/">Prof. Mikhail Belkin</a> where I worked on active learning and semi-supervised learning problems.
-
+I completed my Ph.D. in Computer Science from Tulane University in 2024, working with <a href ="http://www.cs.tulane.edu/~jhamm3/"> Prof. Jihun Hamm</a>. 
+The primary thrusts of my research are summarized as follows. The first aspect of my research focuses on rigorously analyzing how different performance metrics (such as accuracy, adversarial robustness, and transferability to downstream tasks) are affected when training and test distributions differ. The second aspect concentrates on developing algorithms inspired by these theoretical insights to improve the performance of the ML models under distribution shifts. Overall, my research analyzes the success of learning models in in-domain in-task and cross-domain cross-task settings and analyzes the impact of distribution shifts in these settings. 
 </p>
 
 Research Interest
