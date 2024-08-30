@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Akshay Mehra"
 title_separator          : "-"
 name                     : &name "Akshay Mehra"
-description              : &description "PhD student at Tulane University. Working on adversarial robustness and bilevel optimization problems in machine learning."
+description              : &description "PhD in computer science from Tulane University. Working on safety and robustness of machine learning."
 url                      : https://akshaymehra24.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/akshaymehra24/akshaymehra24.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.png"
-  bio              : "PhD student in Computer Science at Tulane University working on adversarial machine learning and optimization problems."
-  location         : "New Orleans"
+  bio              : "PhD in computer science from Tulane University. Working on safety and robustness of machine learning."
+  location         : "Atlanta"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5hTbBDMAAAAJ&hl=en"
-  email            : "amehra@tulane.edu"
+  email            : "akshaymehra2404@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
