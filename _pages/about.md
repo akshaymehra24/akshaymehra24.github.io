@@ -23,11 +23,11 @@ To deepen the understanding of machine learning models' robustness to different 
 
 Publications
 ======
-* “[Test-time Assessment of a Model's Performance on Unseen Domains via Optimal Transport](https://arxiv.org/pdf/2405.01451)”.
+* “[Test-time Assessment of a Model's Performance on Unseen Domains via Optimal Transport](https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Mehra_Test-time_Assessment_of_a_Models_Performance_on_Unseen_Domains_via_CVPRW_2024_paper.pdf)”.
   <br> [Code](https://github.com/akshaymehra24/TETOT)
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
   <br><i>Computer Vision and Pattern Recognition (CVPR) Workshop on Fair, Data-efficient, and Trusted Computer Vision 2024. </i>
-* “[On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization](https://arxiv.org/abs/2307.08551)”.
+* “[On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization](https://openaccess.thecvf.com/content/WACV2024/papers/Mehra_On_the_Fly_Neural_Style_Smoothing_for_Risk-Averse_Domain_Generalization_WACV_2024_paper.pdf)”.
   <br> [Code](https://github.com/akshaymehra24/RiskAverseDG) 
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, Bhavya Kailkhura, and Jihun Hamm.
   <br><i>Winter Conference on Applications of Computer Vision (WACV) 2024. </i>
@@ -42,7 +42,7 @@ Publications
   <br> [Code](https://github.com/akshaymehra24/poisoning_certified_defenses), [Poster](http://akshaymehra24.github.io/files/cvpr21_poster.pdf)
   <br> <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
   <br> <i>Computer Vision and Pattern Recognition (CVPR) 2021. </i>
-* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://arxiv.org/abs/1911.03432)”. 
+* “[Penalty Method for Inversion-Free Deep Bilevel Optimization](https://proceedings.mlr.press/v157/mehra21a/mehra21a.pdf)”. 
   <br> [Code](https://github.com/jihunhamm/bilevel-penalty), [Poster](http://akshaymehra24.github.io/files/acml21_poster.pdf)
   <br> <b>Akshay Mehra</b>, Jihun Hamm. 
   <br> <i>Asian Conference on Machine Learning (ACML) 2021.</i>
