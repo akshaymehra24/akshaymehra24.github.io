@@ -23,6 +23,9 @@ To deepen the understanding of machine learning models' robustness to different 
 
 Publications
 ======
+* “[OT-VP: Optimal Transport-guided Visual Prompting for Test-Time Adaptation](https://arxiv.org/abs/2407.09498)”.
+  <br> Yunbei Zhang, <b>Akshay Mehra</b>, and Jihun Hamm.
+  <br><i>Winter Conference on Applications of Computer Vision (WACV) 2025. </i>
 * “[Test-time Assessment of a Model's Performance on Unseen Domains via Optimal Transport](https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Mehra_Test-time_Assessment_of_a_Models_Performance_on_Unseen_Domains_via_CVPRW_2024_paper.pdf)”.
   <br> [Code](https://github.com/akshaymehra24/TETOT)
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
