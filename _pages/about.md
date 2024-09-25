@@ -23,6 +23,10 @@ To deepen the understanding of machine learning models' robustness to different 
 
 Publications
 ======
+* “[Understanding the Transferability of Representations via Task-Relatedness](https://arxiv.org/abs/2307.00823)”.
+  <br> [Code](https://github.com/akshaymehra24/TaskTransferAnalysis)
+  <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
+  <br><i>Neural Information Processing Systems (NeurIPS) 2024.</i>
 * “[OT-VP: Optimal Transport-guided Visual Prompting for Test-Time Adaptation](https://arxiv.org/abs/2407.09498)”.
   <br> Yunbei Zhang, <b>Akshay Mehra</b>, and Jihun Hamm.
   <br><i>Winter Conference on Applications of Computer Vision (WACV) 2025. </i>
@@ -52,9 +56,7 @@ Publications
 
 Preprints
 ======
-* “[Analysis of Task Transferability in Large Pre-trained Classifiers](https://arxiv.org/abs/2307.00823)”.
-  <br> [Code](https://github.com/akshaymehra24/TaskTransferAnalysis)
-  <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
+
 * “[Understanding the Robustness of Multi-Exit Models under Common Corruptions](https://arxiv.org/abs/2212.01562)”. 
   <br> <b>Akshay Mehra</b>, Skyler Seto, Navdeep Jaitly and Barry-John Theobald
 * “[Do Domain Generalization Methods Generalize Well?](https://openreview.net/pdf?id=SRWIQ0Yl53m)”. 
