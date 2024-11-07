@@ -24,7 +24,7 @@ To deepen the understanding of machine learning models' robustness to different 
 Publications
 ======
 * “[Understanding the Transferability of Representations via Task-Relatedness](https://arxiv.org/abs/2307.00823)”.
-  <br> [Code](https://github.com/akshaymehra24/TaskTransferAnalysis) [Poster](http://akshaymehra24.github.io/files/neurips_poster.pdf)
+  <br> [Code](https://github.com/akshaymehra24/TaskTransferAnalysis) [Poster](http://akshaymehra24.github.io/files/Neurips_poster.pdf)
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
   <br><i>Neural Information Processing Systems (NeurIPS) 2024.</i>
 * “[OT-VP: Optimal Transport-guided Visual Prompting for Test-Time Adaptation](https://arxiv.org/abs/2407.09498)”.
