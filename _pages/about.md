@@ -31,7 +31,7 @@ Publications
   <br> Yunbei Zhang, <b>Akshay Mehra</b>, and Jihun Hamm.
   <br><i>Winter Conference on Applications of Computer Vision (WACV) 2025. </i>
 * “[Test-time Assessment of a Model's Performance on Unseen Domains via Optimal Transport](https://openaccess.thecvf.com/content/CVPR2024W/TCV2024/papers/Mehra_Test-time_Assessment_of_a_Models_Performance_on_Unseen_Domains_via_CVPRW_2024_paper.pdf)”.
-  <br> [Code](https://github.com/akshaymehra24/TETOT)
+  <br> [Code](https://github.com/akshaymehra24/TETOT) [Poster](http://akshaymehra24.github.io/files/TCV_poster.pdf)
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
   <br><i>Computer Vision and Pattern Recognition (CVPR) Workshop on Fair, Data-efficient, and Trusted Computer Vision 2024. </i>
 * “[On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization](https://openaccess.thecvf.com/content/WACV2024/papers/Mehra_On_the_Fly_Neural_Style_Smoothing_for_Risk-Averse_Domain_Generalization_WACV_2024_paper.pdf)”.
