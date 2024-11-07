@@ -24,7 +24,7 @@ To deepen the understanding of machine learning models' robustness to different 
 Publications
 ======
 * “[Understanding the Transferability of Representations via Task-Relatedness](https://arxiv.org/abs/2307.00823)”.
-  <br> [Code](https://github.com/akshaymehra24/TaskTransferAnalysis)
+  <br> [Code](https://github.com/akshaymehra24/TaskTransferAnalysis) [Poster](http://akshaymehra24.github.io/files/neurips_poster.pdf)
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
   <br><i>Neural Information Processing Systems (NeurIPS) 2024.</i>
 * “[OT-VP: Optimal Transport-guided Visual Prompting for Test-Time Adaptation](https://arxiv.org/abs/2407.09498)”.
@@ -35,7 +35,7 @@ Publications
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
   <br><i>Computer Vision and Pattern Recognition (CVPR) Workshop on Fair, Data-efficient, and Trusted Computer Vision 2024. </i>
 * “[On the Fly Neural Style Smoothing for Risk-Averse Domain Generalization](https://openaccess.thecvf.com/content/WACV2024/papers/Mehra_On_the_Fly_Neural_Style_Smoothing_for_Risk-Averse_Domain_Generalization_WACV_2024_paper.pdf)”.
-  <br> [Code](https://github.com/akshaymehra24/RiskAverseDG) 
+  <br> [Code](https://github.com/akshaymehra24/RiskAverseDG) [Poster](http://akshaymehra24.github.io/files/wacv24-252.pdf)
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, Bhavya Kailkhura, and Jihun Hamm.
   <br><i>Winter Conference on Applications of Computer Vision (WACV) 2024. </i>
 * “[A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640645.pdf)”. 
