@@ -56,7 +56,8 @@ Publications
 
 Preprints
 ======
-
+* “[Model-agnostic Coreset Selection via LLM-based Concept Bottlenecks](https://arxiv.org/abs/2502.16733)”. 
+  <br> <b>Akshay Mehra</b>, Trisha Mittal, Subhadra Gopalakrishnan, Joshua Kimball.
 * “[Understanding the Robustness of Multi-Exit Models under Common Corruptions](https://arxiv.org/abs/2212.01562)”. 
   <br> <b>Akshay Mehra</b>, Skyler Seto, Navdeep Jaitly and Barry-John Theobald
 * “[Do Domain Generalization Methods Generalize Well?](https://openreview.net/pdf?id=SRWIQ0Yl53m)”. 
