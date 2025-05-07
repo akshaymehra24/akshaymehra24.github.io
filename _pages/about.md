@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "PhD student at Tulane University"
+excerpt: "PhD from Tulane University"
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,6 +23,9 @@ To deepen the understanding of machine learning models' robustness to different 
 
 Publications
 ======
+* “[DPCore: Dynamic Prompt Coreset for Continual Test-Time Adaptations](https://arxiv.org/abs/2406.10737)”.
+  <br> Yunbei Zhang, <b>Akshay Mehra</b>, Shuaicheng Niu and Jihun Hamm.
+  <br><i>International Conference on Machine Learning (ICML) 2025.</i>
 * “[Understanding the Transferability of Representations via Task-Relatedness](https://arxiv.org/abs/2307.00823)”.
   <br> [Code](https://github.com/akshaymehra24/TaskTransferAnalysis) [Poster](http://akshaymehra24.github.io/files/Neurips_poster.pdf)
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
