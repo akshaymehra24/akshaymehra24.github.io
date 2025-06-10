@@ -59,7 +59,7 @@ Publications
 
 Preprints
 ======
-* “[oreset Selection via LLM-based Concept Bottlenecks](https://arxiv.org/abs/2502.16733)”. 
+* “[Coreset Selection via LLM-based Concept Bottlenecks](https://arxiv.org/abs/2502.16733)”. 
   <br> <b>Akshay Mehra</b>, Trisha Mittal, Subhadra Gopalakrishnan, Joshua Kimball.
   <br><i>Second Workshop on Visual Concepts at Computer Vision and Pattern Recognition (CVPR) 2025.</i>
 * “[Understanding the Robustness of Multi-Exit Models under Common Corruptions](https://arxiv.org/abs/2212.01562)”. 
