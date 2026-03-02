@@ -23,7 +23,7 @@ To deepen the understanding of machine learning models' robustness to different 
 
 Publications
 ======
-* “[DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](https://arxiv.org/abs/2512.21867))”.
+* “[DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](https://arxiv.org/abs/2512.21867)”.
   <br> Divyansh Srivastava, <b>Akshay Mehra</b>, Pranav Maneriker, Debopam Sanyal, Vishnu Raj, Vijay Kamarshi, Fan Du, and Joshua Kimball.
   <br><i>Computer Vision and Pattern Recognition (CVPR) 2026.</i>
 * “[DPCore: Dynamic Prompt Coreset for Continual Test-Time Adaptations](https://arxiv.org/abs/2406.10737)”.
@@ -73,7 +73,7 @@ Preprints
 * “[Measuring time-series dataset similarity using wasserstein distance](https://arxiv.org/abs/2507.22189)”. 
    <br> Hongjie Chen, <b>Akshay Mehra</b>, Josh Kimball, and Ryan A Rossi.
 * “[Understanding the Robustness of Multi-Exit Models under Common Corruptions](https://arxiv.org/abs/2212.01562)”. 
-  <br> <b>Akshay Mehra</b>, Skyler Seto, Navdeep Jaitly and Barry-John Theobald
+  <br> <b>Akshay Mehra</b>, Skyler Seto, Navdeep Jaitly and Barry-John Theobald.
 * “[Do Domain Generalization Methods Generalize Well?](https://openreview.net/pdf?id=SRWIQ0Yl53m)”. 
   <br> [Code](https://github.com/akshaymehra24/LimitsOfDG), [Poster](http://akshaymehra24.github.io/files/ml_safety_poster.pdf)
   <br> <b>Akshay Mehra</b>, Bhavya Kailkhura, Pin-Yu Chen and Jihun Hamm. 
