@@ -25,10 +25,13 @@ Publications
 ======
 * “[DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](https://arxiv.org/abs/2512.21867))”.
   <br> Divyansh Srivastava, <b>Akshay Mehra</b>, Pranav Maneriker, Debopam Sanyal, Vishnu Raj, Vijay Kamarshi, Fan Du, and Joshua Kimball.
-  <br><i>omputer Vision and Pattern Recognition (CVPR) 2026.</i>
+  <br><i>Computer Vision and Pattern Recognition (CVPR) 2026.</i>
 * “[DPCore: Dynamic Prompt Coreset for Continual Test-Time Adaptations](https://arxiv.org/abs/2406.10737)”.
   <br> Yunbei Zhang, <b>Akshay Mehra</b>, Shuaicheng Niu and Jihun Hamm.
   <br><i>International Conference on Machine Learning (ICML) 2025.</i>
+* “[A quantitative metric selection approach for time-series forecasting foundation models](https://ieeexplore.ieee.org/abstract/document/10887984)”.
+  <br> Hongjie Chen, <b>Akshay Mehra</b>, Josh Kimball, Sungchul Kim.
+  <br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025.</i>
 * “[Understanding the Transferability of Representations via Task-Relatedness](https://arxiv.org/abs/2307.00823)”.
   <br> [Code](https://github.com/akshaymehra24/TaskTransferAnalysis) [Poster](http://akshaymehra24.github.io/files/Neurips_poster.pdf)
   <br> <b>Akshay Mehra</b>, Yunbei Zhang, and Jihun Hamm.
@@ -68,7 +71,7 @@ Preprints
   <br> <b>Akshay Mehra</b>, Trisha Mittal, Subhadra Gopalakrishnan, Joshua Kimball.
   <br><i>Workshop on Visual Concepts at Computer Vision and Pattern Recognition (CVPR) 2025.</i>
 * “[Measuring time-series dataset similarity using wasserstein distance](https://arxiv.org/abs/2507.22189)”. 
-   <br> Hongjie Chen, <b>Akshay Mehra</b>, Josh Kimball, and Ryan A Rossi
+   <br> Hongjie Chen, <b>Akshay Mehra</b>, Josh Kimball, and Ryan A Rossi.
 * “[Understanding the Robustness of Multi-Exit Models under Common Corruptions](https://arxiv.org/abs/2212.01562)”. 
   <br> <b>Akshay Mehra</b>, Skyler Seto, Navdeep Jaitly and Barry-John Theobald
 * “[Do Domain Generalization Methods Generalize Well?](https://openreview.net/pdf?id=SRWIQ0Yl53m)”. 
