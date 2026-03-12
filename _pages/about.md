@@ -68,7 +68,7 @@ Preprints
 * “[Audio-Visual Continual Test-Time Adaptation without Forgetting](https://arxiv.org/abs/2602.18528)”. 
   <br>Sarthak Kumar Maharana, <b>Akshay Mehra</b>, Bhavya Ramakrishna, Yunhui Guo, and Guan-Ming Su.
 * “[Coreset Selection via LLM-based Concept Bottlenecks](https://arxiv.org/abs/2502.16733)”. 
-  <br> <b>Akshay Mehra</b>, Trisha Mittal, Subhadra Gopalakrishnan, Joshua Kimball.
+  <br> <b>Akshay Mehra</b>, Trisha Mittal, Subhadra Gopalakrishnan, and Joshua Kimball.
   <br><i>Workshop on Visual Concepts at Computer Vision and Pattern Recognition (CVPR) 2025.</i>
 * “[Measuring time-series dataset similarity using wasserstein distance](https://arxiv.org/abs/2507.22189)”. 
    <br> Hongjie Chen, <b>Akshay Mehra</b>, Josh Kimball, and Ryan A Rossi.
