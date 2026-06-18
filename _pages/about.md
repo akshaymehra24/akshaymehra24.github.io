@@ -23,6 +23,9 @@ To deepen the understanding of machine learning models' robustness to different 
 
 Publications
 ======
+* “[Audio-Visual Continual Test-Time Adaptation without Forgetting](https://arxiv.org/abs/2602.18528)”. 
+   <br>Sarthak Kumar Maharana, <b>Akshay Mehra</b>, Bhavya Ramakrishna, Yunhui Guo, and Guan-Ming Su.
+   <br><i>European Conference on Computer Vision (ECCV) 2026.</i>
 * “[DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](https://arxiv.org/abs/2512.21867)”.
   <br> Divyansh Srivastava, <b>Akshay Mehra</b>, Pranav Maneriker, Debopam Sanyal, Vishnu Raj, Vijay Kamarshi, Fan Du, and Joshua Kimball.
   <br><i>Computer Vision and Pattern Recognition (CVPR) 2026.</i>
@@ -65,9 +68,6 @@ Publications
 
 Preprints
 ======
-* “[Audio-Visual Continual Test-Time Adaptation without Forgetting](https://arxiv.org/abs/2602.18528)”. 
-  <br>Sarthak Kumar Maharana, <b>Akshay Mehra</b>, Bhavya Ramakrishna, Yunhui Guo, and Guan-Ming Su.
-   <br><i>Workshop on Continual Adaptation at Scale at International Conference on Machine Learning (ICML) 2026.</i>
 * “[Coreset Selection via LLM-based Concept Bottlenecks](https://arxiv.org/abs/2502.16733)”. 
   <br> <b>Akshay Mehra</b>, Trisha Mittal, Subhadra Gopalakrishnan, and Joshua Kimball.
   <br><i>Workshop on Visual Concepts at Computer Vision and Pattern Recognition (CVPR) 2025.</i>
