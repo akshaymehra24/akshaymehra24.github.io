@@ -27,7 +27,7 @@ Publications
    <br>Sarthak Kumar Maharana, <b>Akshay Mehra</b>, Bhavya Ramakrishna, Yunhui Guo, and Guan-Ming Su.
    <br><i>European Conference on Computer Vision (ECCV) 2026.</i>
 * “[DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](https://arxiv.org/abs/2512.21867)”.
-  <br> Divyansh Srivastava, <b>Akshay Mehra*</b>, Pranav Maneriker*, Debopam Sanyal, Vishnu Raj, Vijay Kamarshi, Fan Du, and Joshua Kimball.
+  <br> Divyansh Srivastava, <b>Akshay Mehra* </b>, Pranav Maneriker*, Debopam Sanyal, Vishnu Raj, Vijay Kamarshi, Fan Du, and Joshua Kimball.
   <br><i>Computer Vision and Pattern Recognition (CVPR) 2026.</i>
 * “[DPCore: Dynamic Prompt Coreset for Continual Test-Time Adaptations](https://arxiv.org/abs/2406.10737)”.
   <br> Yunbei Zhang, <b>Akshay Mehra</b>, Shuaicheng Niu and Jihun Hamm.
