@@ -27,7 +27,7 @@ Publications
    <br>Sarthak Kumar Maharana, <b>Akshay Mehra</b>, Bhavya Ramakrishna, Yunhui Guo, and Guan-Ming Su.
    <br><i>European Conference on Computer Vision (ECCV) 2026.</i>
 * “[DPAR: Dynamic Patchification for Efficient Autoregressive Visual Generation](https://arxiv.org/abs/2512.21867)”.
-  <br> Divyansh Srivastava, <b>Akshay Mehra</b>, Pranav Maneriker, Debopam Sanyal, Vishnu Raj, Vijay Kamarshi, Fan Du, and Joshua Kimball.
+  <br> Divyansh Srivastava, <b>Akshay Mehra*</b>, Pranav Maneriker*, Debopam Sanyal, Vishnu Raj, Vijay Kamarshi, Fan Du, and Joshua Kimball.
   <br><i>Computer Vision and Pattern Recognition (CVPR) 2026.</i>
 * “[DPCore: Dynamic Prompt Coreset for Continual Test-Time Adaptations](https://arxiv.org/abs/2406.10737)”.
   <br> Yunbei Zhang, <b>Akshay Mehra</b>, Shuaicheng Niu and Jihun Hamm.
@@ -68,8 +68,10 @@ Publications
 
 Preprints
 ======
+* “[Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?](https://arxiv.org/abs/2606.18209)”. 
+  <br> Trisha Mittal*, <b>Akshay Mehra*</b>, and Joshua Kimball.
 * “[Coreset Selection via LLM-based Concept Bottlenecks](https://arxiv.org/abs/2502.16733)”. 
-  <br> <b>Akshay Mehra</b>, Trisha Mittal, Subhadra Gopalakrishnan, and Joshua Kimball.
+  <br> <b>Akshay Mehra*</b>, Trisha Mittal*, Subhadra Gopalakrishnan, and Joshua Kimball.
   <br><i>Workshop on Visual Concepts at Computer Vision and Pattern Recognition (CVPR) 2025.</i>
 * “[Measuring time-series dataset similarity using wasserstein distance](https://arxiv.org/abs/2507.22189)”. 
    <br> Hongjie Chen, <b>Akshay Mehra</b>, Josh Kimball, and Ryan A Rossi.
