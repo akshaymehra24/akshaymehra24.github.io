@@ -32,7 +32,7 @@ Publications
 * “[DPCore: Dynamic Prompt Coreset for Continual Test-Time Adaptations](https://arxiv.org/abs/2406.10737)”.
   <br> Yunbei Zhang, <b>Akshay Mehra</b>, Shuaicheng Niu and Jihun Hamm.
   <br><i>International Conference on Machine Learning (ICML) 2025.</i>
-* “[A quantitative metric selection approach for time-series forecasting foundation models](https://ieeexplore.ieee.org/abstract/document/10887984)”.
+* “[A Quantitative Metric Selection Approach for Time-Series Forecasting Foundation Models](https://ieeexplore.ieee.org/abstract/document/10887984)”.
   <br> Hongjie Chen, <b>Akshay Mehra</b>, Josh Kimball, Sungchul Kim.
   <br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025.</i>
 * “[Understanding the Transferability of Representations via Task-Relatedness](https://arxiv.org/abs/2307.00823)”.
