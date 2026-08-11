@@ -70,6 +70,7 @@ Preprints
 ======
 * “[Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?](https://arxiv.org/abs/2606.18209)”. 
   <br> Trisha Mittal*, <b>Akshay Mehra*</b>, and Joshua Kimball.
+  <br><i>Workshop on Curated Data for Efficient Learning at European Conference on Computer Vision (ECCV) 2026.</i>
 * “[Coreset Selection via LLM-based Concept Bottlenecks](https://arxiv.org/abs/2502.16733)”. 
   <br> <b>Akshay Mehra* </b>, Trisha Mittal*, Subhadra Gopalakrishnan, and Joshua Kimball.
   <br><i>Workshop on Visual Concepts at Computer Vision and Pattern Recognition (CVPR) 2025.</i>
