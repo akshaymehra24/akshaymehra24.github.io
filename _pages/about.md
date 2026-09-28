@@ -23,6 +23,9 @@ To deepen the understanding of machine learning models' robustness to different 
 
 Publications
 ======
+* “[Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?](https://arxiv.org/abs/2606.18209)”. 
+  <br> Trisha Mittal*, <b>Akshay Mehra*</b>, and Joshua Kimball.
+  <br><i>Neural Information Processing Systems (NeurIPS) 2026.</i>
 * “[Audio-Visual Continual Test-Time Adaptation without Forgetting](https://arxiv.org/abs/2602.18528)”. 
    <br>Sarthak Kumar Maharana, <b>Akshay Mehra</b>, Bhavya Ramakrishna, Yunhui Guo, and Guan-Ming Su.
    <br><i>European Conference on Computer Vision (ECCV) 2026.</i>
@@ -68,11 +71,8 @@ Publications
 
 Preprints
 ======
-* “[Rethinking Dataset Distillation for Classification: Do Distilled Sets Outperform Coresets?](https://arxiv.org/abs/2606.18209)”. 
-  <br> Trisha Mittal*, <b>Akshay Mehra*</b>, and Joshua Kimball.
-  <br><i>Workshop on Curated Data for Efficient Learning at European Conference on Computer Vision (ECCV) 2026.</i>
 * “[Coreset Selection via LLM-based Concept Bottlenecks](https://arxiv.org/abs/2502.16733)”. 
-  <br> <b>Akshay Mehra* </b>, Trisha Mittal*, Subhadra Gopalakrishnan, and Joshua Kimball.
+  <br> <b>Akshay Mehra*</b>, Trisha Mittal*, Subhadra Gopalakrishnan, and Joshua Kimball.
   <br><i>Workshop on Visual Concepts at Computer Vision and Pattern Recognition (CVPR) 2025.</i>
 * “[Measuring Time-Series Dataset Similarity using Wasserstein Distance](https://arxiv.org/abs/2507.22189)”. 
    <br> Hongjie Chen, <b>Akshay Mehra</b>, Josh Kimball, and Ryan A Rossi.
