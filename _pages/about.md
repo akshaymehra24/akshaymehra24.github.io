@@ -72,7 +72,7 @@ Publications
 Preprints
 ======
 * “[Coreset Selection via LLM-based Concept Bottlenecks](https://arxiv.org/abs/2502.16733)”. 
-  <br> <b>Akshay Mehra*</b>, Trisha Mittal*, Subhadra Gopalakrishnan, and Joshua Kimball.
+  <br> <b>Akshay Mehra* </b>, Trisha Mittal*, Subhadra Gopalakrishnan, and Joshua Kimball.
   <br><i>Workshop on Visual Concepts at Computer Vision and Pattern Recognition (CVPR) 2025.</i>
 * “[Measuring Time-Series Dataset Similarity using Wasserstein Distance](https://arxiv.org/abs/2507.22189)”. 
    <br> Hongjie Chen, <b>Akshay Mehra</b>, Josh Kimball, and Ryan A Rossi.
